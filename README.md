@@ -1,4 +1,5 @@
 # dojowhitebelt2
 Learning GitHub is cool!
 dfdsfdsfdf
-dsfdf
+dsfdfA new line (local)
+A new line (local)
